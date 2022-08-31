@@ -1,0 +1,19 @@
+﻿<Window x:Class="Intermediate_Inge_WPF.Gaming"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:Intermediate_Inge_WPF"
+        mc:Ignorable="d"
+        Title="Gaming" Height="900" Width="800">
+    <Grid>
+        <Label>Points: </Label>
+        <Label Margin="40,0,0,0" x:Name="PointCounter">0</Label>
+        <Label Margin="650,0,0,0">Combo: </Label>
+        <Label Margin="700,0,0,0" x:Name="ComboCounter">0</Label>
+        <Canvas MouseMove="TopLeft_OnMouseMove" x:Name="TopLeft" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Top"></Canvas>
+        <Canvas MouseMove="TopRight_OnMouseMove" x:Name="TopRight" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Top" ></Canvas>
+        <Canvas MouseMove="BottomLeft_OnMouseMove" x:Name="BottomLeft" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Bottom" ></Canvas>
+        <Canvas MouseMove="BottomRight_OnMouseMove" x:Name="BottomRight" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Bottom" ></Canvas>
+    </Grid>
+</Window>

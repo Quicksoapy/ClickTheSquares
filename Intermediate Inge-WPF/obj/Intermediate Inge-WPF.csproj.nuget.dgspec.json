@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
+        "projectName": "Intermediate Inge-WPF",
+        "projectPath": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
+        "packagesPath": "C:\\Users\\Gamin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Gamin\\.dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

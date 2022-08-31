@@ -1,0 +1,12 @@
+﻿<Window x:Class="Intermediate_Inge_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Intermediate_Inge_WPF"
+        mc:Ignorable="d"
+        Title="Click the squares!" Height="200px" Width="400px">
+    <Grid>
+        <Button Click="UIElement_OnClick" Height="50px" Width="100px">START</Button>
+    </Grid>
+</Window>

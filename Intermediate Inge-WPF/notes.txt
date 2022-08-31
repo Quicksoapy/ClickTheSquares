@@ -1,0 +1,4 @@
+﻿counter -> delay tussen 2 hitsquares
+zelfde counter, zelfde delay voor hitsquare te klikken
+
+counter versnelt elke 5 clicks, begin bij 2 seconden
