@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Click the squares!" Height="200px" Width="400px">
     <Grid>
+        <Label>Cheems Edition: </Label>
+        <CheckBox Margin="100,5,0,0" Checked="ToggleButton_OnChecked" Unchecked="ToggleButton_OnUnchecked"></CheckBox>
         <Button Click="UIElement_OnClick" Height="50px" Width="100px">START</Button>
     </Grid>
 </Window>

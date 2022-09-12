@@ -4,16 +4,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:local="clr-namespace:Intermediate_Inge_WPF"
+        WindowState="Maximized" 
+        WindowStyle="None"
         mc:Ignorable="d"
-        Title="Gaming" Height="900" Width="800">
+        Title="Gaming" Height="1920" Width="1080"
+        >
     <Grid>
         <Label>Points: </Label>
         <Label Margin="40,0,0,0" x:Name="PointCounter">0</Label>
         <Label Margin="650,0,0,0">Combo: </Label>
         <Label Margin="700,0,0,0" x:Name="ComboCounter">0</Label>
-        <Canvas MouseMove="TopLeft_OnMouseMove" x:Name="TopLeft" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Top"></Canvas>
-        <Canvas MouseMove="TopRight_OnMouseMove" x:Name="TopRight" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Top" ></Canvas>
-        <Canvas MouseMove="BottomLeft_OnMouseMove" x:Name="BottomLeft" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Bottom" ></Canvas>
-        <Canvas MouseMove="BottomRight_OnMouseMove" x:Name="BottomRight" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Bottom" ></Canvas>
+        <Label HorizontalAlignment="Right" Margin="0,0,50,0">Max Combo: </Label>
+        <Label HorizontalAlignment="Right" x:Name="MaxComboCounter">0</Label>
+        <Canvas PreviewMouseUp="TopLeft_OnPreviewMouseUp" x:Name="TopLeft" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Top"></Canvas>
+        <Canvas PreviewMouseUp="TopMiddle_OnPreviewMouseUp" x:Name="TopMiddle" Margin="0,100,0,0" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Top"></Canvas>
+        <Canvas PreviewMouseUp="TopRight_OnPreviewMouseUp" x:Name="TopRight" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Top" ></Canvas>
+        <Canvas PreviewMouseUp="BottomLeft_OnPreviewMouseUp" x:Name="BottomLeft" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Bottom" ></Canvas>
+        <Canvas PreviewMouseUp="BottomMiddle_OnPreviewMouseUp" x:Name="BottomMiddle" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Bottom"></Canvas>
+        <Canvas PreviewMouseUp="BottomRight_OnPreviewMouseUp" x:Name="BottomRight" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Bottom" ></Canvas>
     </Grid>
 </Window>
