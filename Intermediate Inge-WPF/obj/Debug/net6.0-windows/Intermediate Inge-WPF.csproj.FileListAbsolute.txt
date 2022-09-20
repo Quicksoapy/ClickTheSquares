@@ -21,3 +21,26 @@ C:\Users\Gamin\RiderProjects\Intermediate Inge-WPF\Intermediate Inge-WPF\obj\Deb
 C:\Users\Gamin\RiderProjects\Intermediate Inge-WPF\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.pdb
 C:\Users\Gamin\RiderProjects\Intermediate Inge-WPF\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.genruntimeconfig.cache
 C:\Users\Gamin\RiderProjects\Intermediate Inge-WPF\Intermediate Inge-WPF\obj\Debug\net6.0-windows\ref\Intermediate Inge-WPF.dll
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\bin\Debug\net6.0-windows\Intermediate Inge-WPF.exe
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\bin\Debug\net6.0-windows\Intermediate Inge-WPF.deps.json
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\bin\Debug\net6.0-windows\Intermediate Inge-WPF.runtimeconfig.json
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\bin\Debug\net6.0-windows\Intermediate Inge-WPF.dll
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\bin\Debug\net6.0-windows\Intermediate Inge-WPF.pdb
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.csproj.AssemblyReference.cache
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Gaming.g.cs
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF_MarkupCompile.cache
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF_MarkupCompile.lref
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Gaming.baml
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.g.resources
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.AssemblyInfoInputs.cache
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.AssemblyInfo.cs
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.dll
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\refint\Intermediate Inge-WPF.dll
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.pdb
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\Intermediate Inge-WPF.genruntimeconfig.cache
+C:\Users\Gamin\RiderProjects\ClickTheSquares\Intermediate Inge-WPF\obj\Debug\net6.0-windows\ref\Intermediate Inge-WPF.dll

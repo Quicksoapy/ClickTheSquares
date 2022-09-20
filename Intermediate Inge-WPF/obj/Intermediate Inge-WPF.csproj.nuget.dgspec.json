@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {}
+    "C:\\Users\\Gamin\\RiderProjects\\ClickTheSquares\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {
+    "C:\\Users\\Gamin\\RiderProjects\\ClickTheSquares\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
+        "projectUniqueName": "C:\\Users\\Gamin\\RiderProjects\\ClickTheSquares\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
         "projectName": "Intermediate Inge-WPF",
-        "projectPath": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
+        "projectPath": "C:\\Users\\Gamin\\RiderProjects\\ClickTheSquares\\Intermediate Inge-WPF\\Intermediate Inge-WPF.csproj",
         "packagesPath": "C:\\Users\\Gamin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gamin\\RiderProjects\\Intermediate Inge-WPF\\Intermediate Inge-WPF\\obj\\",
+        "outputPath": "C:\\Users\\Gamin\\RiderProjects\\ClickTheSquares\\Intermediate Inge-WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +56,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Gamin\\.dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

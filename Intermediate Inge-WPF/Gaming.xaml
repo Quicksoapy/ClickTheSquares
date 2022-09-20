@@ -16,11 +16,11 @@
         <Label Margin="700,0,0,0" x:Name="ComboCounter">0</Label>
         <Label HorizontalAlignment="Right" Margin="0,0,50,0">Max Combo: </Label>
         <Label HorizontalAlignment="Right" x:Name="MaxComboCounter">0</Label>
-        <Canvas PreviewMouseUp="TopLeft_OnPreviewMouseUp" x:Name="TopLeft" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Top"></Canvas>
-        <Canvas PreviewMouseUp="TopMiddle_OnPreviewMouseUp" x:Name="TopMiddle" Margin="0,100,0,0" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Top"></Canvas>
-        <Canvas PreviewMouseUp="TopRight_OnPreviewMouseUp" x:Name="TopRight" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Top" ></Canvas>
-        <Canvas PreviewMouseUp="BottomLeft_OnPreviewMouseUp" x:Name="BottomLeft" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Bottom" ></Canvas>
-        <Canvas PreviewMouseUp="BottomMiddle_OnPreviewMouseUp" x:Name="BottomMiddle" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Bottom"></Canvas>
-        <Canvas PreviewMouseUp="BottomRight_OnPreviewMouseUp" x:Name="BottomRight" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Bottom" ></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="TopLeft" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Top"></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="TopMiddle" Margin="0,100,0,0" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Top"></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="TopRight" Margin="0, 100, 0,0" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Top" ></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="BottomLeft" Height="400px" Width="400px" HorizontalAlignment="Left" VerticalAlignment="Bottom" ></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="BottomMiddle" Height="400px" Width="400px" HorizontalAlignment="Center" VerticalAlignment="Bottom"></Canvas>
+        <Canvas PreviewMouseUp="Mole_OnPreviewMouseUp" x:Name="BottomRight" Height="400px" Width="400px" HorizontalAlignment="Right" VerticalAlignment="Bottom" ></Canvas>
     </Grid>
 </Window>
