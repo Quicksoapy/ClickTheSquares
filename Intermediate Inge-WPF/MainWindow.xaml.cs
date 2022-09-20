@@ -20,7 +20,6 @@ namespace Intermediate_Inge_WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        public bool cheems = false;
         public MainWindow()
         {
             InitializeComponent();
@@ -28,18 +27,8 @@ namespace Intermediate_Inge_WPF
 
         private void UIElement_OnClick(object sender, RoutedEventArgs routedEventArgs)
         {
-            Gaming gamewindow = new Gaming(cheems);
+            Gaming gamewindow = new Gaming();
             gamewindow.Show();
-        }
-
-        private void ToggleButton_OnChecked(object sender, RoutedEventArgs e)
-        {
-            cheems = true;
-        }
-
-        private void ToggleButton_OnUnchecked(object sender, RoutedEventArgs e)
-        {
-            cheems = false;
         }
     }
 }

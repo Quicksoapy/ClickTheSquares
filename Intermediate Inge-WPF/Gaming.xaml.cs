@@ -27,7 +27,7 @@ public partial class Gaming : Window
     
     System.Timers.Timer delay = new System.Timers.Timer(2000);
     private System.Timers.Timer bonked = new Timer(1000);
-    public Gaming(bool cheems)
+    public Gaming()
     {
         InitializeComponent();
         
